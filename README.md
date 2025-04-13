@@ -1,6 +1,6 @@
 ## Hi there I am Ameya👋
 
- 🔭 I’m IT student at TSEC
+ 🔭 I’m a BTECH IT student at TSEC
  🌱 I’m currently learning Different Web technologies
  ⚡ I am very passionate for coding
 
